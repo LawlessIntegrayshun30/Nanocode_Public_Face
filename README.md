@@ -65,6 +65,6 @@ commercial considerations are underway.
 ## Contact
 
 For partnership, collaboration, validation, or review inquiries:
-[Your Email Here]
+brant@brantdevelopment.com
 
 
